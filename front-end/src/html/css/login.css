@@ -1,0 +1,47 @@
+.content-tudo,
+.content-tudo-cad,
+.content-tudo-login{
+    margin: 10% 25% 5% 25%;
+    width: 50%;
+    border-radius: 10px;
+    height: 640px;
+    -webkit-box-shadow: 1px 1px 50px 0px #4A99D3;
+}
+.content-tudo-login{
+    height: 500px;
+}
+.content-tudo-cad{
+    height: 1100px;
+}
+.content-tudo-cad form,
+.content-tudo-login form,
+.content-tudo form{
+    padding: 10px 40px 10px 40px;
+}
+.content-tudo-cad h1,
+.content-tudo-login h1,
+.content-tudo h1{
+    padding: 40px 40px 0px 0px;
+    text-align: center;
+}
+.content-tudo-cad input,
+.content-tudo-login input,
+.content-tudo input{
+    width: 95%;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.btn_global{
+    background-color: #0DAEB6;
+    border-radius: 56px;
+    font-weight: bold;
+    height: 54px;
+    width: 136px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin: 0% 50% 0% 39.5%;
+}

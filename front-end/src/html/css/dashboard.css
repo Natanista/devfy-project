@@ -1,0 +1,80 @@
+/* .div_fundo{
+    margin:120px 10px 10px 30px; 
+    height: 530px;
+    width: 95%;
+    display: flex;
+}
+
+.div_cinza{
+    margin:10px 10px 10px 25px;
+    width: 30%;
+    height:500px;
+    border-radius: 10px;
+    background-color: rgba(163, 162, 162, 0.549);
+    text-align: center;
+    padding: 10px;
+    -webkit-box-shadow: 5px 6px 16px -2px rgba(0,0,0,0.82); 
+    box-shadow: 5px 6px 16px -2px rgba(0,0,0,0.82);
+}
+
+.div_fundo_card{
+    margin-top: 10px;
+    width: 102%;
+    height: 95.5%;
+    overflow-y:auto;
+}
+
+.div_card_projetos{
+    padding:10px 0px -2.1px 3px;
+    background-color: rgb(172, 168, 168);
+    border-left: 10px solid #2343C4;
+
+    border-radius: 10px;
+    width: 91%;
+    height: 160px;
+    -webkit-box-shadow: 5px 6px 19px -5px rgba(0,0,0,0.82); 
+    box-shadow: 5px 6px 19px -5px rgba(0,0,0,0.82);
+    margin-bottom:10px;
+    text-align: left;
+    transition: 0.4s;
+    font-size: 14px;
+}
+
+.div_card_projetos p{
+    padding: 10px 1px 1px 10px;
+}
+ 
+.div_card_projetos:hover{
+    width: 93%;
+    height: 146px;
+    transition: 0.4s;
+}
+
+.div_card_button{
+    height: 45px;
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+}
+.div_esq,
+.div_dir{
+    width: 50%;
+    height: 24px;
+    padding: 15px 20px 5px 30px;
+}
+.div_esq a {
+    color: black;
+}
+.div_dir{
+    background-color: rgb(0, 196, 65);  
+    padding: 11px 20px 5px 43px;
+    margin-top: 2px;
+    border-bottom-right-radius: 10px;
+}
+.div_card_conteudo{
+    width:100%;
+    height:120px;
+    background-color: white;
+    border-top-right-radius: 10px;
+}
+ */
